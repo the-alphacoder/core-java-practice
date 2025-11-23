@@ -58,12 +58,17 @@ public class PrimitiveDatatypes {
 
     //implicit casting - here we dont nee to mannually convert them.
     byte bNum =127;
+    System.out.println(bNum);
     short sNum = bNum;
+    System.out.println(sNum);
     int iNum = sNum;
+    System.out.println(iNum);
     long lNum = iNum;
+    System.out.println(lNum);
     float fNum = lNum;
+    System.out.println(fNum);    
     double dNum = fNum;
-
+    System.out.println(dNum);
     
 
 
